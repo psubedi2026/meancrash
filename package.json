@@ -1,0 +1,15 @@
+{
+  "name": "meancrash",
+  "version": "1.0.0",
+  "description": "MEAN Crash Course Code",
+  "main": "meanentry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MEAN",
+    "Crash"
+  ],
+  "author": "Prakash Subedi",
+  "license": "ISC"
+}
